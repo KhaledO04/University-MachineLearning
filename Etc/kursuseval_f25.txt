@@ -1,0 +1,345 @@
+F25 Evalueringsrapport for SWMAL-01 Machine Learning
+(SWMAL-01 Machine Learning (F25.28521PU042.A))
+Diplomingeniøruddannelsen i softwareteknologi
+
+
+
+Teacher Carsten Eie Frigaard
+
+
+
+
+Svarprocent
+                                                                            Studerende
+
+  Besvaret                                                                         20
+
+  Inviteret                                                                        79
+
+  Svarprocent                                                                  25,32%
+
+
+
+
+Indhold
+
+ 1. Oversigt
+ 2. Standardspørgsmål
+ 3. Evt. selvvalgte spørgsmål
+
+
+
+
+1. Oversigt
+
+Følgende er en samlet oversigt over besvarelserne på standardspørgsmålene
+
+
+
+
+                                                                                Side 1/11
+Spørgsmål med gennemsnitsberegning
+Likert skala 1-5
+
+                                                                                                               Gennemsnit
+
+  Jeg vurderer det samlede udbytte af undervisningsforløbet som                                                      4,05
+
+  Jeg oplever, at kurset har relevans for mit studium som helhed                                                     4,45
+
+  Kurset er hensigtsmæssigt tilrettelagt                                                                             4,30
+
+  Kursets undervisning, forberedelse (hjemmearbejde), opgaver mm har til sammen bidraget til, at jeg har
+                                                                                                                     4,45
+  nået læringsmålene
+
+  Forberedelse, opgaver, mm. var af passende omfang og niveau                                                        4,15
+
+  Kurset havde det faglige niveau, som jeg forventede                                                                4,30
+
+
+
+
+Spørgsmål med procentfordeling - 3 er bedst
+
+                                                               1              2               3            4            5
+
+  Arbejdsbyrden på kurset vurderes som                    5,00%        25,00%           70,00%         0,00%       0,00%
+
+
+
+
+2. Standardspørgsmål
+
+Det følgende viser standardspørgsmålene enkeltvis med besvarelser
+
+
+
+
+                                                                                                                    Side 2/11
+Jeg vurderer det samlede udbytte af undervisningsforløbet som
+
+
+ 5 Meget stort udbytte            3      15,00%
+
+ 4 Stort udbytte                 15      75,00%
+
+ 3 Noget udbytte                  2      10,00%
+
+ 2 Lille udbytte                  0       0,00%
+
+ 1 Intet udbytte                  0       0,00%
+
+ Samlet                          20                0%           50%     100%
+
+
+ Statistik                                                            Værdi
+
+ Gennemsnit                                                            4,05
+
+
+
+
+Arbejdsbyrden på kurset vurderes som
+
+
+ 5 Meget for stor                 1       5,00%
+
+ 4 For stor                       5      25,00%
+
+ 3 Passende                      14      70,00%
+
+ 2 For lille                      0       0,00%
+
+ 1 Meget for lille                0       0,00%
+
+ Samlet                          20                0%           50%     100%
+
+
+ Statistik                                                            Værdi
+
+ Gennemsnit                                                            3,35
+
+
+
+Kommentar
+
+
+
+                                                                       Side 3/11
+Jeg oplever, at kurset har relevans for mit studium som helhed
+
+
+ 5 Enig                 10    50,00%
+
+ 4 Overvejende enig      9    45,00%
+
+ 3 Hverken/eller         1     5,00%
+
+ 2 Overvejende uenig     0     0,00%
+
+ 1 Uenig                 0     0,00%
+
+ N/A Ikke relevant       0     0,00%
+
+ Samlet                 20             0%                        50%     100%
+
+
+ Statistik                                                             Værdi
+
+ Gennemsnit                                                             4,45
+
+
+
+Kommentar
+
+
+
+[Intet svar]
+
+
+
+
+                                                                        Side 4/11
+Kurset er hensigtsmæssigt tilrettelagt
+
+
+ 5 Enig                  9    45,00%
+
+ 4 Overvejende enig      9    45,00%
+
+ 3 Hverken/eller         1     5,00%
+
+ 2 Overvejende uenig     1     5,00%
+
+ 1 Uenig                 0     0,00%
+
+ N/A Ikke relevant       0     0,00%
+
+ Samlet                 20               0%   50%     100%
+
+
+ Statistik                                          Værdi
+
+ Gennemsnit                                          4,30
+
+
+
+Kommentar
+
+[Intet svar]
+
+
+
+
+                                                     Side 5/11
+Kursets undervisning, forberedelse (hjemmearbejde), opgaver mm har til sammen bidraget til, at
+jeg har nået læringsmålene
+
+
+ 5 Enig                         11      55,00%
+
+ 4 Overvejende enig              8      40,00%
+
+ 3 Hverken/eller                 0       0,00%
+
+ 2 Overvejende uenig             1       5,00%
+
+ 1 Uenig                         0       0,00%
+
+ N/A Ikke relevant               0       0,00%
+
+ Samlet                         20                  0%         50%                         100%
+
+
+ Statistik                                                                               Værdi
+
+ Gennemsnit                                                                               4,45
+
+
+
+Kommentar
+
+
+
+
+
+                                                                                          Side 6/11
+Forberedelse, opgaver, mm. var af passende omfang og niveau
+
+
+ 5 Enig                 7   35,00%
+
+ 4 Overvejende enig    11   55,00%
+
+ 3 Hverken/eller        0    0,00%
+
+ 2 Overvejende uenig    2   10,00%
+
+ 1 Uenig                0    0,00%
+
+ N/A Ikke relevant      0    0,00%
+
+ Samlet                20            0%                       50%     100%
+
+
+ Statistik                                                          Værdi
+
+ Gennemsnit                                                          4,15
+
+
+
+Kommentar
+
+[Intet svar]
+
+
+
+
+                                                                     Side 7/11
+Kurset havde det faglige niveau, som jeg forventede
+
+
+ 5 Enig                 9    45,00%
+
+ 4 Overvejende enig     9    45,00%
+
+ 3 Hverken/eller        1     5,00%
+
+ 2 Overvejende uenig    1     5,00%
+
+ 1 Uenig                0     0,00%
+
+ N/A Ikke relevant      0     0,00%
+
+ Samlet                20             0%              50%     100%
+
+
+ Statistik                                                  Værdi
+
+ Gennemsnit                                                  4,30
+
+
+
+Kommentar
+
+[Intet svar]
+
+
+
+
+                                                             Side 8/11
+3. Selvvalgte spørgsmål
+
+Skal SWMAL laves om til flipped-classroom?
+
+ Skal SWMAL laves om til flipped-classroom?
+
+
+  5 Enig                           1      5,00%
+
+  4 Delvist enig                   3     15,00%
+
+  3 Hverken/eller                  3     15,00%
+
+  2 Delvist uenig                  1      5,00%
+
+  1 Uenig                         11     55,00%
+
+  N/A Ikke relevant                1      5,00%
+
+  Samlet                         20                0%                                  50%                                  100%
+
+
+  Statistik                                                                                                             Værdi
+
+  Gennemsnit                                                                                                              2,05
+
+
+
+
+Hvad er fordelene og ulemperne i flipped-classroom kurser (skriv din subjektive
+mening)?
+
+                                                                                                                          Side 9/11
+Kommentarer
+
+
+Gav tekstfeedback noget brugbart for jeres
+journal afleveringer (mest for CEF's grupper:
+20-30)?
+
+
+ Statistik                                            Værdi
+
+ Gennemsnit                                             4,20
+
+
+
+
+                                                                                                                               Side 10/11
+Har du yderligere kommentarer, så bare skriv løs her ;-)...
+
+  Kommentarer
+
+                                                                                                                          Side 11/11
