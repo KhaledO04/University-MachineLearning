@@ -1,0 +1,40 @@
+@startuml ANN_Precise
+skinparam backgroundColor white
+skinparam shadowing false
+skinparam roundCorner 5
+
+title **MLP Neural Network Architecture - Opgave Qb**\nUdtrukkede vægte fra trænet model
+
+' Input Layer
+circle "**X**\n(Input)" as x #E8F5E8
+
+' Hidden Layer with tanh activation
+circle "**h₁**\n(tanh)\nb₁=2.000" as h1 #E3F2FD
+circle "**h₂**\n(tanh)\nb₂=4.000" as h2 #E3F2FD
+
+' Output Layer
+circle "**y**\n(Output)\nb₃≈0.000" as y #FFF3E0
+
+' Connections with precise weights
+x -down-> h1 : **W₁=+2.000**
+x -down-> h2 : **W₂=-2.000**
+h1 -down-> y : **W₃=2.000**
+h2 -down-> y : **W₄=3.000**
+
+' Add layer labels
+note top of x : Input Layer
+note right of h1 : Hidden Layer\n(2 neuroner)
+note bottom of y : Output Layer
+
+' Network summary
+note bottom
+**Netværksparametre:**
+• Input neuroner: 1
+• Hidden neuroner: 2 (tanh)
+• Output neuroner: 1
+• Total vægte: 4
+• Total bias: 3
+• **Total parametre: 7**
+end note
+
+@enduml
